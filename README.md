@@ -31,15 +31,15 @@ The main goal of this project is to build a smart chatbot that enables customers
 
 | Screenshot | Description |
 |-----------|-------------|
-| ![Anaconda Prompt](screenshots/1_Anaconda-Promt.png) | Launching the chatbot system through the Anaconda Prompt. |
-| ![Signup Page](screenshots/2_Signup-Page.png) | User registration screen for new users. |
-| ![Login Page](screenshots/3_login-Page.png) | Secure login screen for existing users. |
-| ![Home Page 1](screenshots/4_Home-Page1.png) | Landing page showing available products. |
-| ![Home Page 2](screenshots/5_Home-Page2.png) | Product selection and user options interface. |
-| ![Chat Interface 1](screenshots/6_Chat1.png) | Customer starts negotiation in chat window. |
-| ![Chat Interface 2](screenshots/7_Chat2.png) | Bot continues negotiation with pricing responses. |
-| ![Payment Page](screenshots/8_Payment.png) | Checkout and payment screen. |
-| ![Payment Success](screenshots/9_Payment-Successful.png) | Confirmation screen after successful purchase. |
+| ![Anaconda Prompt](Anaconda-Promt.png) | Launching the chatbot system through the Anaconda Prompt. |
+| ![Signup Page](Signup-Page.png) | User registration screen for new users. |
+| ![Login Page](login-Page.png) | Secure login screen for existing users. |
+| ![Home Page 1](Home-Page1.png) | Landing page showing available products. |
+| ![Home Page 2](Home-Page2.png) | Product selection and user options interface. |
+| ![Chat Interface 1](Chat1.png) | Customer starts negotiation in chat window. |
+| ![Chat Interface 2](Chat2.png) | Bot continues negotiation with pricing responses. |
+| ![Payment Page](Payment.png) | Checkout and payment screen. |
+| ![Payment Success](Payment-Successful.png) | Confirmation screen after successful purchase. |
 
 
 
