@@ -110,7 +110,7 @@ The Price Negotiation Chatbot offers an innovative solution to bring back person
 
 **Neha Thakur** | Data Analyst & NLP Enthusiast  
 📧 [nehaathakurnehaathakur92@gmail.com](mailto:nehaathakurnehaathakur92@gmail.com)  
-🔗 [LinkedIn: Neha Thakur](https://www.linkedin.com/in/nehathakur8)
+🔗 [LinkedIn:linkedin.com/in/nehathakur8 ](https://www.linkedin.com/in/nehathakur8)
 
 
 ## 📢 Contact
